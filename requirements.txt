@@ -1,0 +1,4 @@
+terminaltables
+huepy
+netifaces
+termcolor
